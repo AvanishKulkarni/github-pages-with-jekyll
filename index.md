@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "This is a Tutorial Site"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I have successfully edited the body of this site.
