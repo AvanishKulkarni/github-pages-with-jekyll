@@ -1,5 +1,5 @@
 ---
-title: "This is a Tutorial Site"
+title: "Final Project Site"
 ---
 
-I have successfully edited the body of this site.
+This contains a short bragsheet and my social links.
