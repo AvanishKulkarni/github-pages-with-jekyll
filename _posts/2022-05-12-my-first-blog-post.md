@@ -1,5 +1,7 @@
 ---
-title: "Blog Post 1"
-date: 2022-05-12
+title: "Brag Sheet"
+date: 2022-06-09
 ---
-This a blog post done today
+* Admitted into NJIT
+* Awarded a Senior Award from the German Department
+* Beat Halo CE, 2, 3, 3: ODST, Reach, 4 on Legendary Difficulty
